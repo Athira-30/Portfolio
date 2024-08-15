@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c138ac73.css",
+    "main.js": "/static/js/main.fa4c5132.js",
+    "static/js/422.1014264f.chunk.js": "/static/js/422.1014264f.chunk.js",
+    "static/media/logo.png": "/static/media/logo.0df64efacc4669f08d3f.png",
+    "static/media/Resume_Michael_Beebower.pdf": "/static/media/Resume_Michael_Beebower.217c363807b43479d89b.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/avatar.svg": "/static/media/avatar.ba9763ec9a1bf7764f6643817a54adc0.svg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.c138ac73.css.map": "/static/css/main.c138ac73.css.map",
+    "main.fa4c5132.js.map": "/static/js/main.fa4c5132.js.map",
+    "422.1014264f.chunk.js.map": "/static/js/422.1014264f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c138ac73.css",
+    "static/js/main.fa4c5132.js"
+  ]
+}
